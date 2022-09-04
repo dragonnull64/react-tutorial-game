@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-tutorial-game/static/css/main.22941023.css",
+    "main.css": "/react-tutorial-game/static/css/main.ff8aa77a.css",
     "main.js": "/react-tutorial-game/static/js/main.e946f3d2.js",
     "index.html": "/react-tutorial-game/index.html",
-    "main.22941023.css.map": "/react-tutorial-game/static/css/main.22941023.css.map",
+    "main.ff8aa77a.css.map": "/react-tutorial-game/static/css/main.ff8aa77a.css.map",
     "main.e946f3d2.js.map": "/react-tutorial-game/static/js/main.e946f3d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.22941023.css",
+    "static/css/main.ff8aa77a.css",
     "static/js/main.e946f3d2.js"
   ]
 }
