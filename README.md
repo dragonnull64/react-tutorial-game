@@ -10,3 +10,4 @@ React tutorial: https://reactjs.org/tutorial/tutorial.html
 - [ ] When someone wins, highlight the three squares that caused the win.
 - [ ] When no one wins, display a message about the result being a draw.
 - [ ] Make the design look good.(extra)
+- [x] Automate page builds with github actions.(extra)
